@@ -3,7 +3,16 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fauz-ali-fe) 
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/fauz-ali-fe) 
+
+## 💻 Tech Stack:
+
+### Core Technologies & Programming Languages
+![Core Programming](https://skillicons.dev/icons?i=html,css,js,ts,graphql,python)
+
+### Deployment Stack
+![Deployment Stack](https://skillicons.dev/icons?i=aws,gcp,azure,firebase,heroku,netlify,vercel,docker,git,kubernetes)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=fauzsp&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=fauzsp&theme=dracula&hide_border=false)<br/>
