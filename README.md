@@ -8,15 +8,18 @@
 ## 💻 Tech Stack:
 
 ### Core Technologies & Programming Languages
-![Core Programming](https://skillicons.dev/icons?i=html,css,js,ts,graphql,python)
+![Core Programming](https://skillicons.dev/icons?i=html,css,js,ts,htmx,graphql,python,apollo)
 
 ### Deployment Stack
-![Deployment Stack](https://skillicons.dev/icons?i=aws,gcp,azure,firebase,heroku,netlify,vercel,docker,git,kubernetes)
+![Deployment Stack](https://skillicons.dev/icons?i=aws,gcp,azure,firebase,heroku,netlify,vercel,docker,git,kubernetes,cloudflare)
 
 ### Frameworks, Platforms & Libraries
 
 #### Frontend
-![Deployment Stack](https://skillicons.dev/icons?i=react,vue,angular,nextjs,redux,bootstrap,tailwind)
+![Deployment Stack](https://skillicons.dev/icons?i=react,vue,angular,nextjs,nuxtjs,nestjs,redux,bootstrap,tailwind,alpinejs,babel,webpack,materialui)
+
+#### Backend
+![Deployment Stack](https://skillicons.dev/icons?i=nodejs,express,remix,gatsby,npm,django,flask,fastapi,deno,bun)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=fauzsp&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
