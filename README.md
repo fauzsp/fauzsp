@@ -1,5 +1,10 @@
 # 💫 About Me:
-🔭 **Currently Working On:** Scalable MERN stack applications with a focus on performance and innovation.  <br>👯 **Looking to Collaborate On:** Open-source projects and innovative SaaS platforms.  <br>🤝 **Looking for Help With:** Advanced architectural patterns, microservices, and DevOps practices.  <br>🌱 **Currently Learning:** Advanced cloud technologies, serverless architectures, and AI/ML integration.  <br>💬 **Ask Me About:** MERN stack, software engineering best practices, and leadership in tech.  <br>⚡ **Fun Fact:** Over 10 years of experience, including a recent role as Principal Software Engineer.
+🔭 **Currently Working On:** Scalable MERN stack applications with a focus on performance and innovation.  <br>
+👯 **Looking to Collaborate On:** Open-source projects and innovative SaaS platforms.  <br>
+🤝 **Looking for Help With:** Advanced architectural patterns, microservices, and DevOps practices.  <br>
+🌱 **Currently Learning:** Advanced cloud technologies, serverless architectures, and AI/ML integration.  <br>
+💬 **Ask Me About:** MERN stack, software engineering best practices, and leadership in tech.  <br>
+⚡ **Fun Fact:** When work gets overwhelming, I hit the road and escape out of town to recharge! 🚀
 
 
 ## 🌐 Socials:
@@ -29,7 +34,7 @@
 ![Deployment Stack](https://skillicons.dev/icons?i=jest,selenium,cypress,vitest)
 
 ### 🖥️ Development Tools & IDEs
-![Deployment Stack](https://skillicons.dev/icons?i=vscode,webstorm,phpstorm,neovim,jetbrains,postman,figma,notion,replit,jira)
+![Deployment Stack](https://skillicons.dev/icons?i=vscode,webstorm,phpstorm,neovim,postman,figma,notion,replit,jira)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=fauzsp&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
