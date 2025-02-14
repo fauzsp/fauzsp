@@ -10,28 +10,26 @@
 ### Core Technologies & Programming Languages
 ![Core Programming](https://skillicons.dev/icons?i=html,css,js,ts,htmx,graphql,python,apollo)
 
-### Deployment Stack
-![Deployment Stack](https://skillicons.dev/icons?i=aws,gcp,azure,firebase,heroku,netlify,vercel,docker,git,kubernetes)
+### 🖥️ Frontend Skills
+![Deployment Stack](https://skillicons.dev/icons?i=react,reactivex,redux,nextjs,nuxtjs,remix,solidjs,svelte,vue,vuetify,lit,alpinejs,tailwind,bootstrap,materialui,htmx,styledcomponents,emotion,threejs)
 
-### Frameworks, Platforms & Libraries
+### ⚙️ Backend Skills
+![Deployment Stack](https://skillicons.dev/icons?i=nodejs,express,nestjs,adonis,fastapi,flask,django,apollo,graphql,elixir,prisma,sequelize,redis,rabbitmq,kafka)
 
-#### Frontend
-![Deployment Stack](https://skillicons.dev/icons?i=react,vue,angular,nextjs,nuxtjs,nestjs,redux,bootstrap,tailwind,alpinejs,babel,webpack,materialui)
+### 🌍 Fullstack Skills
+![Deployment Stack](https://skillicons.dev/icons?i=typescript,javascript,mongodb,postgres,mysql,firebase,prisma,docker,kubernetes,terraform,nginx,cloudflare,aws,azure,gcp,vercel,netlify)
 
-#### Backend
-![Deployment Stack](https://skillicons.dev/icons?i=nodejs,express,remix,gatsby,npm,django,flask,fastapi,deno,bun)
-
-#### Web Servers
-![Deployment Stack](https://skillicons.dev/icons?i=nginx,cloudflare,openshift)
-
-#### Databases
+### 🗃️ Databases
 ![Deployment Stack](https://skillicons.dev/icons?i=cassandra,dynamodb,elasticsearch,firebase,mongodb,mysql,postgres,sqlite,planetscale,redis,prometheus)
 
-#### CI/CD & Version Control
-![Deployment Stack](https://skillicons.dev/icons?i=git,github,githubactions,gitlab,bitbucket,jenkins)
+### 🛠️ DevOps & CI/CD
+![Deployment Stack](https://skillicons.dev/icons?i=git,github,githubactions,gitlab,bitbucket,jenkins,docker,kubernetes,terraform,cloudflare,aws,azure,gcp,openshift)
 
-#### Misc & Productivity Tools
-![Deployment Stack](https://skillicons.dev/icons?i=figma,notion,postman,obsidian,replit)
+### 🔍 Testing & Automation
+![Deployment Stack](https://skillicons.dev/icons?i=jest,selenium,cypress,vitest)
+
+### 🖥️ Development Tools & IDEs
+![Deployment Stack](https://skillicons.dev/icons?i=vscode,webstorm,phpstorm,neovim,jetbrains,postman,figma,notion,replit,jira)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=fauzsp&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
