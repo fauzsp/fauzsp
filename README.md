@@ -11,7 +11,7 @@
 ![Core Programming](https://skillicons.dev/icons?i=html,css,js,ts,htmx,graphql,python,apollo)
 
 ### Deployment Stack
-![Deployment Stack](https://skillicons.dev/icons?i=aws,gcp,azure,firebase,heroku,netlify,vercel,docker,git,kubernetes,cloudflare)
+![Deployment Stack](https://skillicons.dev/icons?i=aws,gcp,azure,firebase,heroku,netlify,vercel,docker,git,kubernetes)
 
 ### Frameworks, Platforms & Libraries
 
@@ -20,6 +20,18 @@
 
 #### Backend
 ![Deployment Stack](https://skillicons.dev/icons?i=nodejs,express,remix,gatsby,npm,django,flask,fastapi,deno,bun)
+
+#### Web Servers
+![Deployment Stack](https://skillicons.dev/icons?i=nginx,cloudflare,openshift)
+
+#### Databases
+![Deployment Stack](https://skillicons.dev/icons?i=cassandra,dynamodb,elasticsearch,firebase,mongodb,mysql,postgres,sqlite,planetscale,redis,prometheus)
+
+#### CI/CD & Version Control
+![Deployment Stack](https://skillicons.dev/icons?i=git,github,githubactions,gitlab,bitbucket,jenkins)
+
+#### Misc & Productivity Tools
+![Deployment Stack](https://skillicons.dev/icons?i=figma,notion,postman,obsidian,replit)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=fauzsp&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
