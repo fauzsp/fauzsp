@@ -13,7 +13,7 @@
 ## 💻 Tech Stack:
 
 ### Core Technologies & Programming Languages
-![Core Programming](https://skillicons.dev/icons?i=html,css,js,ts,htmx,graphql,python,apollo)
+![Core Programming](https://skillicons.dev/icons?i=html,css,js,ts,htmx,graphql,apollo)
 
 ### 🖥️ Frontend Skills
 ![Deployment Stack](https://skillicons.dev/icons?i=react,reactivex,redux,nextjs,nuxtjs,remix,solidjs,svelte,vue,vuetify,lit,alpinejs,tailwind,bootstrap,materialui,htmx,styledcomponents,emotion,threejs)
