@@ -13,6 +13,11 @@
 ### Deployment Stack
 ![Deployment Stack](https://skillicons.dev/icons?i=aws,gcp,azure,firebase,heroku,netlify,vercel,docker,git,kubernetes)
 
+### Frameworks, Platforms & Libraries
+
+#### Frontend
+![Deployment Stack](https://skillicons.dev/icons?i=react,vue,angular,nextjs,redux,bootstrap,tailwind)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=fauzsp&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=fauzsp&theme=dracula&hide_border=false)<br/>
